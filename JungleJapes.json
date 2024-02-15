@@ -1,0 +1,22 @@
+{
+        "name": "Jungle Japes",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#4CA897",
+          "primary-color": "#009c8f",
+          "warning-color": "#d2212d",
+          "sidebar-color": "#0F1A16",
+          "roomlist-background-color": "#334D48",
+          "roomlist-text-color": "#778585",
+          "roomlist-text-secondary-color": "#000000",
+          "roomlist-highlights-color": "#778585",
+          "roomlist-separator-color": "#778585",
+          "timeline-background-color": "#0F1A16",
+          "timeline-text-color": "#A7B1B0",
+          "secondary-content": "#778585",
+          "tertiary-content": "#778585",
+          "timeline-text-secondary-color": "#778585",
+          "timeline-highlights-color": "#4CA897",
+          "reaction-row-button-selected-bg-color": "#4695f7"
+        }
+      }
